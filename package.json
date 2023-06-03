@@ -1,0 +1,35 @@
+{
+  "name": "lawfirm",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react-toastify": "^9.0.7",
+    "react-icons": "^4.4.0",
+    "react": "^18.2.0",
+    "swiper": "^8.0.7",
+    "react-scroll": "^1.8.7",
+    "@emailjs/browser": "^3.11.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.2",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6",
+    "autoprefixer": "^10.4.7",
+    "@rocketseat/eslint-config": "^1.2.0",
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "vite": "^4.3.9"
+  }
+}
