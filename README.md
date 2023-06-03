@@ -8,7 +8,7 @@
     <img src="src/assets/imgLogo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Page | Dra Mary Jane</h3>
+  <h3 align="center">Escritório de Advocacia Moderna</h3>
 
   <p align="center">
     <br />
