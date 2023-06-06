@@ -12,7 +12,7 @@
 
   <p align="center">
     <br />
-    <a href="https://advogaciamoderna.netlify.app/" target="_blank" rel="noreferrer">Demo do projeto</a>
+    <a href="https://advocaciamoderna.netlify.app/" target="_blank" rel="noreferrer">Demo do projeto</a>
   </p>
 </div>
 
@@ -32,7 +32,7 @@
 <br />Sobre o aplicativo:<br />
 <br />
 
-- Modelo de uma landing-page para Escritorio de Advogacia
+- Modelo de uma landing-page para Escritorio de Advocacia
 - Cliente pode mandar mensagem para o escritorio
 - Pode assinar o newsletter
 - Entrar em contato
